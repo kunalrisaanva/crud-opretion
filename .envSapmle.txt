@@ -1,0 +1,5 @@
+JWT_SECRET = "hyyimkunalrisaanva"
+
+NODEMAILER_USER = "kunalrisaanva12@gmail.com"
+
+NODEMAILER_PASS = sfsz bdko ltgx nice
